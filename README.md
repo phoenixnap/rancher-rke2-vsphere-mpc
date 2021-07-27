@@ -15,7 +15,7 @@ Integrate Rancher with your vSphere to be able to deploy a Kubernetes cluster on
 <p align="center">
   <a href="https://phoenixnap.com/private">Managed Private Cloud</a> •
   <a href="https://developers.phoenixnap.com/">Developers Portal</a> •
-  <a href="http://phoenixnap.com/kb">Knowledge Base</a> •
+  <a href="http://phoenixnap.com/kb">Knowledge Base</a>
 
 ## Notes
   
@@ -25,3 +25,17 @@ Integrate Rancher with your vSphere to be able to deploy a Kubernetes cluster on
 4. terraform init
 5. terraform plan
 6. terraform apply
+
+  ### Contact phoenixNAP
+
+Get in touch with us if you have questions or need help with Managed Private Cloud or our other solutions.
+
+<p align="left">
+  <a href="https://twitter.com/phoenixNAP">Twitter</a> •
+  <a href="https://www.facebook.com/phoenixnap">Facebook</a> •
+  <a href="https://www.linkedin.com/company/phoenix-nap">LinkedIn</a> •
+  <a href="https://www.instagram.com/phoenixnap">Instagram</a> •
+  <a href="https://www.youtube.com/user/PhoenixNAPdatacenter">YouTube</a> •
+  <a href="https://developers.phoenixnap.com/support">Email</a> 
+</p>
+
